@@ -7,5 +7,6 @@ public class git0821 {
         System.out.println("hello,git");
         System.out.println("helllllo");
         System.out.println("hot-fix");
+        System.out.println("pull");
     }
 }
